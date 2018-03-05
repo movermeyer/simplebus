@@ -39,10 +39,10 @@ Please use the Issues_ for feature requests and troubleshooting usage.
 .. |Version| image:: https://badge.fury.io/py/simplebus.svg?
    :target: http://badge.fury.io/py/simplebus
 
-.. |Downloads| image:: https://pypip.in/d/simplebus/badge.svg?
+.. |Downloads| image:: https://img.shields.io/pypi/dm/simplebus.svg
    :target: https://pypi.python.org/pypi/simplebus
    
-.. |License| image:: https://pypip.in/license/simplebus/badge.svg?
+.. |License| image:: https://img.shields.io/pypi/l/simplebus.svg
    :target: https://github.com/viniciuschiele/simplebus/blob/master/LICENSE
 
 .. _amqp-storm: https://github.com/eandersson/amqp-storm
